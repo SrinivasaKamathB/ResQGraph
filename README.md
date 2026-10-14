@@ -3,6 +3,11 @@
 > *Track: AI for Disaster Response | HORIZON X 2K26*  
 > *Simulation Baseline: Bengaluru 2022 Urban Flood*
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://resqgraph.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrinivasaKamathB/ResQGraph)
+
+🌐 **Live Commander Dashboard:** [https://resqgraph.onrender.com/](https://resqgraph.onrender.com/)
+
 ---
 
 ## 📌 Problem Statement
@@ -92,7 +97,8 @@ npm install
 npm run dev
 ```
 
-* **Commander Dashboard:** `http://localhost:5173`
+* **Live Web Dashboard:** [https://resqgraph.onrender.com/](https://resqgraph.onrender.com/)
+* **Local Commander Dashboard:** `http://localhost:5173`
 * **API Documentation:** `http://localhost:8000/docs`
 
 ---
