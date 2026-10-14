@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bellandur Lake",
+    "aliases": ["bellandur", "bellanduru"],
+    "lat": 12.9279,
+    "lng": 77.6698
+  },
+  {
+    "name": "Marathahalli Bridge",
+    "aliases": ["marathahalli", "marathalli"],
+    "lat": 12.9569,
+    "lng": 77.7011
+  },
+  {
+    "name": "HSR Layout",
+    "aliases": ["hsr", "hsr sector"],
+    "lat": 12.9121,
+    "lng": 77.6446
+  },
+  {
+    "name": "Silk Board Junction",
+    "aliases": ["silk board", "silkboard"],
+    "lat": 12.9175,
+    "lng": 77.6238
+  },
+  {
+    "name": "Koramangala",
+    "aliases": ["koramangala 5th block", "koramangala block"],
+    "lat": 12.9279,
+    "lng": 77.6271
+  },
+  {
+    "name": "Outer Ring Road",
+    "aliases": ["orr", "outer ring", "ecospace"],
+    "lat": 12.9273,
+    "lng": 77.6710
+  },
+  {
+    "name": "Whitefield",
+    "aliases": ["white field"],
+    "lat": 12.9698,
+    "lng": 77.7499
+  },
+  {
+    "name": "Electronic City",
+    "aliases": ["ecity", "e-city", "electronics city"],
+    "lat": 12.8452,
+    "lng": 77.6602
+  },
+  {
+    "name": "Yelahanka",
+    "aliases": ["yelhanka"],
+    "lat": 13.1007,
+    "lng": 77.5963
+  },
+  {
+    "name": "Hebbal",
+    "aliases": ["hebbal flyover", "hebal"],
+    "lat": 13.0354,
+    "lng": 77.5988
+  },
+  {
+    "name": "KR Puram",
+    "aliases": ["kr puram bridge", "krpuram", "krishnarajapuram"],
+    "lat": 13.0019,
+    "lng": 77.6836
+  },
+  {
+    "name": "Majestic",
+    "aliases": ["kempegowda bus station", "kgs"],
+    "lat": 12.9771,
+    "lng": 77.5728
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sim_1",
+    "text": "Water logging near Bellandur lake. Traffic is completely stuck.",
+    "language": "en",
+    "timestamp": "2024-10-07T10:00:00Z",
+    "source": "twitter"
+  },
+  {
+    "id": "sim_2",
+    "text": "Silk board hathi neeru tumbide, please help.",
+    "language": "kn",
+    "timestamp": "2024-10-07T10:05:00Z",
+    "source": "sms"
+  },
+  {
+    "id": "sim_3",
+    "text": "Huge traffic at Silk Board junction because of heavy rain. Water is knee deep.",
+    "language": "en",
+    "timestamp": "2024-10-07T10:08:00Z",
+    "source": "whatsapp"
+  },
+  {
+    "id": "sim_4",
+    "text": "Marathahalli bridge ke neeche paani bhar gaya hai. 2 log fanse hain.",
+    "language": "hi",
+    "timestamp": "2024-10-07T10:15:00Z",
+    "source": "twitter"
+  },
+  {
+    "id": "sim_5",
+    "text": "Medical emergency! Pregnant lady needs help near HSR layout sector 2.",
+    "language": "en",
+    "timestamp": "2024-10-07T10:20:00Z",
+    "source": "app"
+  },
+  {
+    "id": "sim_6",
+    "text": "HSR sector 2 mein pani bahut jyada hai. Ek pregnant aurat ko hospital jana hai.",
+    "language": "hi",
+    "timestamp": "2024-10-07T10:22:00Z",
+    "source": "sms"
+  },
+  {
+    "id": "sim_7",
+    "text": "Outer ring road is completely flooded. Cars are floating near ecospace.",
+    "language": "en",
+    "timestamp": "2024-10-07T10:30:00Z",
+    "source": "twitter"
+  },
+  {
+    "id": "sim_8",
+    "text": "Silk board bridge collapsed! Many dead!",
+    "language": "en",
+    "timestamp": "2024-10-07T10:35:00Z",
+    "source": "rumor_whatsapp"
+  },
+  {
+    "id": "sim_9",
+    "text": "Tree fallen near Koramangala 5th block. Blocking the main road.",
+    "language": "en",
+    "timestamp": "2024-10-07T10:40:00Z",
+    "source": "app"
+  },
+  {
+    "id": "sim_10",
+    "text": "Koramangala 5th block kade mara biddide.",
+    "language": "kn",
+    "timestamp": "2024-10-07T10:42:00Z",
+    "source": "sms"
+  }
+]

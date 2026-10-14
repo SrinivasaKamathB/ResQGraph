@@ -1,0 +1,62 @@
+{
+  "rainbow drive": {
+    "lat": 12.9126,
+    "lng": 77.6872,
+    "area": "Sarjapur Road",
+    "aliases": ["rainbow drive layout", "rainbow drive villas", "rd layout sarjapur", "rainbow drive gate 1", "rainbow drive gate 2"]
+  },
+  "ecospace": {
+    "lat": 12.9255,
+    "lng": 77.6826,
+    "area": "Bellandur ORR",
+    "aliases": ["rmz ecospace", "ecospace orr", "bellandur ecospace", "ecospace underpass", "near ecospace bus stop"]
+  },
+  "hsr sector 5": {
+    "lat": 12.9116,
+    "lng": 77.6388,
+    "area": "HSR Layout",
+    "aliases": ["hsr layout 5th sector", "hsr 5th sector park", "hsr sector 5 17th cross", "hsr govt school"]
+  },
+  "silk board": {
+    "lat": 12.9176,
+    "lng": 77.6234,
+    "area": "Central Junction",
+    "aliases": ["silk board junction", "central silk board", "silk board flyover", "near silk board petrol bunk"]
+  },
+  "yamalur bridge": {
+    "lat": 12.9463,
+    "lng": 77.6789,
+    "area": "Yamalur / Bellandur North",
+    "aliases": ["yamalur", "yamalur lake road", "divyasree 77 east", "kempapura yamalur bridge"]
+  },
+  "marathahalli": {
+    "lat": 12.9569,
+    "lng": 77.7011,
+    "area": "Marathahalli",
+    "aliases": ["marathahalli bridge", "marathahalli multiplex", "munnekollal", "spice garden marathahalli"]
+  },
+  "mahadevapura": {
+    "lat": 12.9912,
+    "lng": 77.6601,
+    "area": "Outer Ring Road North",
+    "aliases": ["mahadevapura flyover", "bagmane constellation", "mahadevapura lake road"]
+  },
+  "kadubeesanahalli": {
+    "lat": 12.9360,
+    "lng": 77.6961,
+    "area": "Bellandur - Marathahalli ORR",
+    "aliases": ["kadubeesanahalli underpass", "near cisco campus", "kadubeesanahalli bridge"]
+  },
+  "kasavanahalli": {
+    "lat": 12.8988,
+    "lng": 77.6749,
+    "area": "Sarjapur Sub-corridor",
+    "aliases": ["kasavanahalli lake road", "amrita college road", "central jail road kasavanahalli"]
+  },
+  "koramangala 4th block": {
+    "lat": 12.9338,
+    "lng": 77.6288,
+    "area": "Koramangala",
+    "aliases": ["koramangala 4th block park", "sony world signal koramangala", "wipro park koramangala"]
+  }
+}
