@@ -13,16 +13,22 @@ export default function DistressStream() {
   return (
     <div className="flex-1 bg-[#101624] border-b border-slate-800 flex flex-col overflow-hidden">
       {/* Header */}
-      <div className="p-3.5 border-b border-slate-800 flex items-center justify-between bg-[#0E131F]">
+      <div className="p-3 border-b border-slate-800 flex items-center justify-between bg-[#0E131F]">
         <div className="flex items-center gap-2">
           <span className="w-2 h-2 rounded-full bg-red-400 animate-pulse"></span>
           <h2 className="text-xs font-bold text-slate-200 tracking-wide uppercase">
             Live Distress Stream
           </h2>
         </div>
-        <span className="text-[11px] font-semibold text-cyan-400 bg-cyan-950/80 px-2 py-0.5 rounded border border-cyan-800/50">
-          {activeReports.length} Reports Ingested
-        </span>
+        <div className="flex items-center gap-2">
+          <span className="text-[10px] font-bold text-purple-300 bg-purple-950/80 px-2 py-0.5 rounded border border-purple-500/40 flex items-center gap-1 shadow-[0_0_10px_rgba(168,85,247,0.25)]">
+            <span className="w-1.5 h-1.5 rounded-full bg-purple-400"></span>
+            Breeth AI Memory
+          </span>
+          <span className="text-[11px] font-semibold text-cyan-400 bg-cyan-950/80 px-2 py-0.5 rounded border border-cyan-800/50">
+            {activeReports.length} Reports
+          </span>
+        </div>
       </div>
 
       {/* Stream Cards List */}
@@ -30,6 +36,7 @@ export default function DistressStream() {
         {[...activeReports].reverse().map((report) => {
           const isAudio = report.channel === 'VOICE';
           const isPlaying = playingId === report.id;
+          const isRepeat = ['rep_016', 'rep_034', 'rep_035', 'rep_037', 'rep_047'].includes(report.id);
 
           return (
             <div
@@ -42,6 +49,14 @@ export default function DistressStream() {
                   : 'bg-[#151D2F] border-slate-800/80 hover:border-slate-700'
               }`}
             >
+              {/* Breeth Memory Recall Banner for repeat incident progression */}
+              {isRepeat && (
+                <div className="mb-2 p-1.5 rounded bg-purple-950/50 border border-purple-500/40 text-[10px] text-purple-200 flex items-center gap-1.5">
+                  <span className="w-1.5 h-1.5 rounded-full bg-purple-400 animate-ping"></span>
+                  <span className="font-bold text-purple-300">Breeth Memory:</span>
+                  <span>Repeat caller in sector. Flood depth +0.4m since prior call. Priority escalated.</span>
+                </div>
+              )}
               {/* Header Badges */}
               <div className="flex items-center justify-between mb-1.5">
                 <div className="flex items-center gap-2">

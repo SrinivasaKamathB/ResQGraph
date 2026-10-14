@@ -5,6 +5,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://resqgraph.onrender.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SrinivasaKamathB/ResQGraph)
+[![Breeth AI Memory](https://img.shields.io/badge/AI%20Memory-Breeth-8A2BE2?style=for-the-badge&logoColor=white)](https://thebreeth.com)
 
 🌐 **Live Commander Dashboard:** [https://resqgraph.onrender.com/](https://resqgraph.onrender.com/)
 
@@ -35,6 +36,7 @@ During severe urban disasters (such as the Bengaluru 2022 floods):
 7. **Commander Tactical Map (Leaflet.js):** Dark tactical GIS interface with real-time hazard beacons, live boat trajectories, and satellite layer switching.
 8. **Human-in-the-Loop Safeguards:** Ethical AI architecture where the system proposes optimized routes, but requires explicit Commander approval prior to vehicle dispatch.
 9. **Automated Situation Report (SITREP):** Instant generation of standardized executive disaster reports for State Disaster Management Authorities (SDMA).
+10. **Breeth Intent-Aware Persistent Memory:** Integrates **Breeth** (`thebreeth.com`) to track repeat callers, detect flood depth escalation over time (e.g. +0.4m rise), and recall critical patient medical histories across intermittent calls.
 
 ---
 
